@@ -18,6 +18,12 @@ It focuses on **performance**, **clean architecture**, and a **fluid user experi
 * **Architecture:** MVVM
 * **Version Control:** Git & GitHub
 
+## 🎥 Demo Video
+Watch the demo of the app in action:
+
+<video src="assets/demo/roqtrade.mov" controls width="600"></video>
+
+
 
 ## 🔌 API Service
 
